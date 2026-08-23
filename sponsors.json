@@ -5,10 +5,10 @@
       "slug": "papermc",
       "stats": {
         "balance": {
-          "valueInCents": 1382681
+          "valueInCents": 1383471
         },
         "monthlySpending": {
-          "valueInCents": 9699
+          "valueInCents": 9667
         }
       },
       "contributors": {
@@ -97,7 +97,7 @@
           {
             "name": "Chris Turrell",
             "image": "https://images.opencollective.com/user-e81971f1/avatar.png",
-            "totalAmountDonated": 28000
+            "totalAmountDonated": 28500
           },
           {
             "name": "serhatkotan",
@@ -182,7 +182,7 @@
           {
             "name": "lexiccn",
             "image": "https://images.opencollective.com/lexiccn/avatar.png",
-            "totalAmountDonated": 13000
+            "totalAmountDonated": 13500
           },
           {
             "name": "Oyot Onyenwe",
@@ -1010,6 +1010,11 @@
             "totalAmountDonated": 400
           },
           {
+            "name": "PyroE",
+            "image": "https://images.opencollective.com/pyroe/efc9d02/avatar.png",
+            "totalAmountDonated": 400
+          },
+          {
             "name": "Guest",
             "image": "https://images.opencollective.com/guest-556695c4/avatar.png",
             "totalAmountDonated": 307
@@ -1037,11 +1042,6 @@
           {
             "name": "Tigger",
             "image": "https://images.opencollective.com/tigger/avatar.png",
-            "totalAmountDonated": 300
-          },
-          {
-            "name": "PyroE",
-            "image": "https://images.opencollective.com/pyroe/efc9d02/avatar.png",
             "totalAmountDonated": 300
           },
           {
@@ -1362,8 +1362,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/151947705?size=64"
           },
           {
-            "login": "andriidiakonov-dev",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/205514341?size=64"
+            "login": "WakfuYT",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/186349078?size=64"
           },
           {
             "login": "Vanish-pixel",
