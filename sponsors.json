@@ -5,10 +5,10 @@
       "slug": "papermc",
       "stats": {
         "balance": {
-          "valueInCents": 1383471
+          "valueInCents": 1417806
         },
         "monthlySpending": {
-          "valueInCents": 9667
+          "valueInCents": 8815
         }
       },
       "contributors": {
@@ -122,7 +122,7 @@
           {
             "name": "Gigadrive",
             "image": "https://images.opencollective.com/gigadrive/8d2b953/logo.png",
-            "totalAmountDonated": 22000
+            "totalAmountDonated": 22500
           },
           {
             "name": "Crumbs",
@@ -150,13 +150,13 @@
             "totalAmountDonated": 18500
           },
           {
-            "name": "Tyzoid",
-            "image": "https://images.opencollective.com/tyzoid/avatar.png",
-            "totalAmountDonated": 16500
-          },
-          {
             "name": "CrazyHjonk",
             "image": "https://images.opencollective.com/crazyhjonk/avatar.png",
+            "totalAmountDonated": 17000
+          },
+          {
+            "name": "Tyzoid",
+            "image": "https://images.opencollective.com/tyzoid/avatar.png",
             "totalAmountDonated": 16500
           },
           {
@@ -290,6 +290,11 @@
             "totalAmountDonated": 8500
           },
           {
+            "name": "Brant Andrew",
+            "image": "https://images.opencollective.com/brant-andrew1/avatar.png",
+            "totalAmountDonated": 8500
+          },
+          {
             "name": "Arkonius",
             "image": "https://images.opencollective.com/arkonius/4a553cb/logo.png",
             "totalAmountDonated": 8000
@@ -307,11 +312,6 @@
           {
             "name": "EVLBOX",
             "image": "https://images.opencollective.com/evlbox/66271f4/logo.png",
-            "totalAmountDonated": 7500
-          },
-          {
-            "name": "Brant Andrew",
-            "image": "https://images.opencollective.com/brant-andrew1/avatar.png",
             "totalAmountDonated": 7500
           },
           {
@@ -365,6 +365,11 @@
             "totalAmountDonated": 5500
           },
           {
+            "name": "SpektrSoyuz",
+            "image": "https://images.opencollective.com/spektrsoyuz/avatar.png",
+            "totalAmountDonated": 5500
+          },
+          {
             "name": "iLemon",
             "image": "https://images.opencollective.com/user-83328e77/e6280f2/avatar.png",
             "totalAmountDonated": 5000
@@ -412,11 +417,6 @@
           {
             "name": "Jannik Gosny",
             "image": "https://images.opencollective.com/jagos910/15489c0/avatar.png",
-            "totalAmountDonated": 5000
-          },
-          {
-            "name": "SpektrSoyuz",
-            "image": "https://images.opencollective.com/spektrsoyuz/avatar.png",
             "totalAmountDonated": 5000
           },
           {
@@ -1015,6 +1015,11 @@
             "totalAmountDonated": 400
           },
           {
+            "name": "Karl - J",
+            "image": "https://images.opencollective.com/karl-j-bb862aff/avatar.png",
+            "totalAmountDonated": 400
+          },
+          {
             "name": "Guest",
             "image": "https://images.opencollective.com/guest-556695c4/avatar.png",
             "totalAmountDonated": 307
@@ -1082,11 +1087,6 @@
           {
             "name": "Beef Block",
             "image": "https://images.opencollective.com/beef-block/a0fea7b/avatar.png",
-            "totalAmountDonated": 200
-          },
-          {
-            "name": "Karl - J",
-            "image": "https://images.opencollective.com/karl-j-bb862aff/avatar.png",
             "totalAmountDonated": 200
           },
           {
@@ -1171,7 +1171,7 @@
   "ghData": {
     "organization": {
       "sponsors": {
-        "totalCount": 52,
+        "totalCount": 51,
         "nodes": [
           {
             "login": "mbax",
@@ -1364,10 +1364,6 @@
           {
             "login": "WakfuYT",
             "avatarUrl": "https://avatars.githubusercontent.com/u/186349078?size=64"
-          },
-          {
-            "login": "Vanish-pixel",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/256740334?size=64"
           }
         ]
       }
